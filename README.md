@@ -9,8 +9,11 @@ Estrutura de Dados (2025/2). Em 2026/1, o grupo avança para um novo eixo:
 # Fundamentos de Ciência de Dados e Análise Multivariada Aplicada com Python.
 
 Este eixo é estratégico para:
+
 • desenvolver a capacidade de trabalhar com dados reais e multivariados;
+
 • construir a base conceitual para IA, BI e Sistemas de Apoio à Decisão;
+
 • e preparar alunos para projetos que envolvam análise de dados complexos.
 
 Do ponto de vista computacional, muitos problemas modernos de pesquisa (inclusive imagens)
